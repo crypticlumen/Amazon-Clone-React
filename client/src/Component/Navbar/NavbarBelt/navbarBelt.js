@@ -1,0 +1,23 @@
+import React from 'react'
+import './navbarBelt.css';
+import amazonLogo from '../../../Assests/AmazonLogo.webp';
+const NavbarBelt = () => {
+  return (
+    <div className='navbarBelt'>
+      <div className='leftnavBelt'>
+        <div className="leftnavBeltLogo">
+        <img className='amazonLogonavbar' src={amazonLogo} alt='amazonLogo' />
+        <span className='navbar_inLogo'>.in</span>
+        </div>
+      </div>
+      <div className='navbarBeltSearchBox'>
+
+      </div>
+      <div className='rightnavBelt'>
+
+      </div>
+    </div>
+  )
+}
+
+export default NavbarBelt
