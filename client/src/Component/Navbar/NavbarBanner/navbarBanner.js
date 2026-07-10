@@ -9,4 +9,4 @@ const NavbarBanner = () => {
   )
 }
 
-export default NavbarBanner
+export default NavbarBanner;

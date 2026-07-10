@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+#VS Code
+.vscode/
+
+#Build Folder
+dist/
+build/
+
+# Environment Files
+.env
+
+# Log files
+*.Log

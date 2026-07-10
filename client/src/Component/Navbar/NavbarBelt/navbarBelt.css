@@ -25,6 +25,13 @@
     }
 }
 .amazonLogonavbar{
-    width: 100px;
+    width: 97px;
     height: 100%
 }
+.navbar_inLogo{
+    margin-left: 2px;
+    font-weight: 400;
+}
+
+/*--------------------------*/
+
