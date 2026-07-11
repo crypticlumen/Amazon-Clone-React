@@ -7,6 +7,7 @@ const NavbarBanner = () => {
       NavbarBanner
     </div>
   )
+  
 }
 
 export default NavbarBanner;
