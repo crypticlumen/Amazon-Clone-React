@@ -2,6 +2,7 @@ import React from 'react'
 import './navbarBelt.css';
 import amazonLogo from '../../../Assests/AmazonLogo.webp';
 import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
+
 const NavbarBelt = () => {
   return (
     <div className='navbarBelt'>
